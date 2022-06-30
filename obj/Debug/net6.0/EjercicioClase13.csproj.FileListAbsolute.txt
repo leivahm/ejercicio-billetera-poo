@@ -1,0 +1,15 @@
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\bin\Debug\net6.0\EjercicioClase13.exe
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\bin\Debug\net6.0\EjercicioClase13.deps.json
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\bin\Debug\net6.0\EjercicioClase13.runtimeconfig.json
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\bin\Debug\net6.0\EjercicioClase13.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\bin\Debug\net6.0\EjercicioClase13.pdb
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\obj\Debug\net6.0\EjercicioClase13.csproj.AssemblyReference.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\obj\Debug\net6.0\EjercicioClase13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\obj\Debug\net6.0\EjercicioClase13.AssemblyInfoInputs.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\obj\Debug\net6.0\EjercicioClase13.AssemblyInfo.cs
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\obj\Debug\net6.0\EjercicioClase13.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\obj\Debug\net6.0\EjercicioClase13.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\obj\Debug\net6.0\refint\EjercicioClase13.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\obj\Debug\net6.0\EjercicioClase13.pdb
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\obj\Debug\net6.0\EjercicioClase13.genruntimeconfig.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\EjercicioClase13\obj\Debug\net6.0\ref\EjercicioClase13.dll

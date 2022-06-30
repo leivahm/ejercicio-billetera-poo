@@ -71,13 +71,9 @@ namespace EjercicioClase13.Modelo
             billetera3.BilletesDe200 = billetera1.BilletesDe200 + billetera2.BilletesDe200;
             billetera3.BilletesDe500 = billetera1.BilletesDe500 + billetera2.BilletesDe500;
             billetera3.BilletesDe1000 = billetera1.BilletesDe1000 + billetera2.BilletesDe1000;
-            Console.WriteLine($"\nBilletera3 tiene {billetera3.BilletesDe10} billetes de 10");
-            Console.WriteLine($"Billetera3 tiene {billetera3.BilletesDe20} billetes de 20");
-            Console.WriteLine($"Billetera3 tiene {billetera3.BilletesDe50} billetes de 50");
-            Console.WriteLine($"Billetera3 tiene {billetera3.BilletesDe100} billetes de 100");
-            Console.WriteLine($"Billetera3 tiene {billetera3.BilletesDe200} billetes de 200");
-            Console.WriteLine($"Billetera3 tiene {billetera3.BilletesDe500} billetes de 500");
-            Console.WriteLine($"Billetera3 tiene {billetera3.BilletesDe1000} billetes de 1000");
+            Console.Write($"Billetera 3 tiene:\n{billetera3.BilletesDe10} billetes de '$10'    ");
+            Console.Write($"{billetera3.BilletesDe20} de '$20'    {billetera3.BilletesDe50} de '$50'    {billetera3.BilletesDe100} de '$100'");
+            Console.Write($"\n{billetera3.BilletesDe200} de '$200'    {billetera3.BilletesDe500} de '$500'    {billetera3.BilletesDe1000} de '$1000'\n");
         }
 
         public void LimpiarBilletera(Billetera billetera)
